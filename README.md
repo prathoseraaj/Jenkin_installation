@@ -23,7 +23,7 @@ Learning the basics of **Jenkins** with the help of flask library, we created a 
 
 
 ### Jenkins
-1) created a new item with item name as **9. Counsumer forcast prediction**
+1) created a new item with item name as **jenkinINSTALLATION**
 2) selected *Pipeline* as the item type
 3) selected *GitHub hook trigger for GITScm polling* in **Build Triggers**
 4) selected *Pipline script from SCM* in **Pipeline**
@@ -34,4 +34,5 @@ Learning the basics of **Jenkins** with the help of flask library, we created a 
 
 #### Output
   
-![image](https://github.com/user-attachments/assets/dde8ef2d-2056-4231-8621-c1a3ce70ed0c)
+![image](https://github.com/user-attachments/assets/f94aeeaf-f1a6-4319-babd-1a33b4b3ca0e)
+
